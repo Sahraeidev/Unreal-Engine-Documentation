@@ -60,10 +60,3 @@ The Blueprint Editor is the main workspace, designed to house all the visual and
 
 ---
 
-## 5. Next Steps
-
-The next classes will introduce more powerful concepts to build complex logic:
-
-* **Variables:** For storing data.
-* **Control Flow (Logic):** For making decisions (e.g., If/Then statements).
-* **Functions:** For making logic reusable.
